@@ -27,7 +27,7 @@ export default function HomePage() {
   return (
     <div className="min-h-svh flex flex-col items-center py-12 px-4 gap-10">
       {/* Octane Button */}
-      <button className="px-16 py-8 text-4xl font-bold bg-green-600 text-white rounded-2xl hover:bg-green-700 active:scale-95 transition-all shadow-lg">
+      <button className="px-16 py-8 text-4xl font-bold bg-red-600 text-white rounded-2xl hover:bg-red-700 active:scale-95 transition-all shadow-lg">
         octane
       </button>
 
